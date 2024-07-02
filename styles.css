@@ -317,16 +317,16 @@ main {
 
 
 .galary img{
-    width: 20px;
+    width: 80px;
     position: center;
-    height: 20px;
+    height: 80px;
     padding: auto;
 }
 
 
 .galary a{
     position: center;
-    padding: 70px;
+    padding: 50px;
 }
 
 
