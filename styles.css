@@ -173,10 +173,10 @@ main {
     left: 50%; 
     transform: translate(-50%, -50%); 
     text-align: center;
-    padding: 20px;
+    padding: 10px;
     background-color: #beffe6; 
-    border-radius: 10px;
-    border: 2px solid rgb(0, 0, 0);
+    border-radius: 5px;
+    border: 1px solid rgb(0, 0, 0);
     transition: max-height 0.5s ease-in-out, opacity 0.5s;
     overflow: hidden;
     z-index: 1000;
