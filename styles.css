@@ -173,7 +173,7 @@ main {
     left: 50%; 
     transform: translate(-50%, -50%); 
     text-align: center;
-    padding: 10px;
+    padding: 20px;
     background-color: #beffe6; 
     border-radius: 10px;
     border: 2px solid rgb(0, 0, 0);
@@ -209,7 +209,7 @@ main {
 .about-section {
     background-color: rgb(182, 182, 182);
     color: rgb(247, 255, 135);
-    padding: 20px;
+    padding: 5px;
     border-radius: 1px;
     margin-bottom: 1px;
     word-wrap: break-word; 
